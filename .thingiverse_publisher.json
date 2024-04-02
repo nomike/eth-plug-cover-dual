@@ -6,19 +6,22 @@
       "ethernet",
       "cable"
     ],
-    "description": "# Network cable protector\n\nProtects those tiny snaps on ethernet cables from breaking off.\n\nThis is a remix of the original which makes it double sided.\nUnfortunately I've lost the link to the original design and I was not able to find it again.\n\n## Thingiverse\n\nhttps://www.thingiverse.com/thing:6528366\n\n## GitHub\n\nhttps://github.com/nomike/eth_plug_cover_dual\n",
     "instructions": "Can be printed with any material and any settings. Prints fine without supports.",
     "is_wip": false,
     "license": "gpl3",
     "id": 6528366
   },
-  "files": [
-    "eth_plug_cover.stl",
-    "eth_plug_cover_lib.scad",
-    "eth_plug_cover_dual.scad",
-    "eth_plug_cover_dual.stl"
-  ],
-  "images": [
-    "photos/eth_plug_cover_dual.png"
-  ]
+  "files": {
+    "eth_plug_cover.stl": {},
+    "eth_plug_cover_lib.scad": {},
+    "eth_plug_cover_dual.scad": {},
+    "eth_plug_cover_dual.stl": {}
+  },
+  "images": {
+    "photos/eth_plug_cover_dual.png": {
+      "id": 20944686,
+      "name": "27c1debb-c504-42a2-888e-9981b5c943be.png",
+      "url": "https://www.thingiverse.com/image:20944686"
+    }
+  }
 }
