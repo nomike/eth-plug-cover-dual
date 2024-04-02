@@ -7,8 +7,8 @@ Unfortunately I've lost the link to the original design and I was not able to fi
 
 ## Thingiverse
 
-https://www.thingiverse.com/thing:6528366
+<https://www.thingiverse.com/thing:6528366>
 
 ## GitHub
 
-https://github.com/nomike/eth_plug_cover_dual
+<https://github.com/nomike/eth_plug_cover_dual>
