@@ -14,7 +14,11 @@
     "eth_plug_cover.stl": {},
     "eth_plug_cover_lib.scad": {},
     "eth_plug_cover_dual.scad": {},
-    "eth_plug_cover_dual.stl": {}
+    "output/eth_plug_cover_dual.stl": {
+      "id": 14292763,
+      "name": "eth_plug_cover_dual.stl",
+      "url": "https://www.thingiverse.com/download:14292763"
+    }
   },
   "images": {
     "photos/eth_plug_cover_dual.png": {
