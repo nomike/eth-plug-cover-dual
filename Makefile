@@ -1,9 +1,15 @@
-.PHONY: upload
+# Output directory for generated STL files
+OUTPUT_DIR = output
 
-eth_plug_cover_dual.stl: eth_plug_cover_dual.scad
-	openscad -o $@ $<
+.PHONY: all generate_stls clean
 
+all: $(OUTPUT_DIR) generate_stls
 
-clean: 
-	rm -f eth_plug_cover_dual.stl
-	
+$(OUTPUT_DIR):
+	mkdir -p $@
+
+generate_stls:
+	openscad_stl_file_generator/generate_stls --output-dir="$(OUTPUT_DIR)"
+
+clean:
+	rm -rf $(OUTPUT_DIR)
