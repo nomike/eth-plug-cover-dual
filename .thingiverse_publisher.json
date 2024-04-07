@@ -7,13 +7,17 @@
       "cable"
     ],
     "is_wip": false,
-    "license": "bsd",
+    "license": "BSD License",
     "id": 6528366
   },
   "files": {
     "eth_plug_cover.stl": {},
     "eth_plug_cover_lib.scad": {},
-    "eth_plug_cover_dual.scad": {},
+    "eth_plug_cover_dual.scad": {
+      "id": 14299092,
+      "name": "eth_plug_cover_dual.scad",
+      "url": "https://www.thingiverse.com/download:14299092"
+    },
     "output/eth_plug_cover_dual.stl": {
       "id": 14292763,
       "name": "eth_plug_cover_dual.stl",
