@@ -9,4 +9,4 @@ Unfortunately I've lost the link to the original design and I was not able to fi
 
 #### GitHub
 
-<https://github.com/nomike/eth_plug_cover_dual>
+<https://github.com/nomike/eth-plug-cover-dual>
